@@ -228,7 +228,7 @@
         ],
         "url": "http://f-prot.com/"
     },
-    "F-Secure": {
+    "F-Secure & WithSecure": {
         "processes": [
             "f-secure.exe",
             "fssm32.exe",
@@ -240,7 +240,9 @@
             "fnrb32.exe",
             "fsav32.exe",
             "fsma32.exe",
-            "fsmb32.exe"
+            "fsmb32.exe",
+            "fsulprothoster.exe",
+            "fshoster32.exe"
         ],
         "url": "https://www.f-secure.com"
     },
@@ -2171,4 +2173,3 @@
         "url":"https://www.iobit.com/en/malware-fighter.php"
     } 
 }
-
