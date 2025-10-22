@@ -14,6 +14,8 @@
 
 ## 📝 TODO
 
+* [x] 2025-10-22 增对于 `Windows Defender Advanced Threat Protection` Defender ATP的识别，感谢 @Re1axCyber 师傅提供的资料
+* [x] 2025-10-22 感谢 @namoen0301 师傅提交的PR，优化对于 `F-Secure & WithSecure` 的识别补充
 * [x] 2025-7-8 感谢 @Fadouse 师傅提交的PR，新增对于 `Elastic EDR` 的识别补充
 * [x] 2025-4-29 新增对于 `Trellix EDR` 火眼EDR进程（McAfee引擎）的识别，具体可见链接：[Combination of McAfee Enterprise and FireEye Complete](https://www.trellix.com/news/press-releases/combination-of-mcafee-enterprise-and-fireeye-complete/)
 * [x] 2025-4-20 将调用的 `all.min.css` 及 `fa-solid-900.woff2` 放到本地加载，优化网页打开速度
